@@ -7,5 +7,5 @@ import { CKEditorModule } from 'ckeditor4-angular';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'test';
+  title = 'testo';
 }
